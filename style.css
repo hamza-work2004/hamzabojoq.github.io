@@ -1,14 +1,13 @@
  body {
       font-family: "Poppins", sans-serif;
-      background: #0d0d17; /* أسود غامق */
+      background: #0d0d17;
       color: #e3e3e3;
       padding: 40px 20px;
-      
       margin: auto;
       line-height: 1.6;
     }
 
-    /* ---------- Navigation ---------- */
+    /* Navigation */
     nav {
       background: linear-gradient(90deg, #4a00e0, #0077ff);
       padding: 12px 20px;
@@ -33,7 +32,7 @@
       transform: translateY(-1px);
     }
 
-    /* ---------- Profile ---------- */
+    /*  Profile */
     img {
       width: 130px;
       height: 130px;
@@ -58,7 +57,7 @@
       color: #cfd2f5;
     }
 
-    /* ---------- Headings ---------- */
+    /*  Headings */
     h2 {
       color: #6c63ff;
       border-left: 4px solid #0077ff;
@@ -68,7 +67,7 @@
       font-size: 20px;
     }
 
-    /* ---------- Lists ---------- */
+    /* Lists */
     ul {
       background: rgba(255, 255, 255, 0.05);
       padding: 15px 20px;
@@ -80,7 +79,7 @@
       margin: 8px 0;
     }
 
-    /* ---------- Table ---------- */
+    /* Table */
     table {
       width: 100%;
       border-collapse: collapse;
@@ -119,7 +118,7 @@
       color: #a998ff;
       text-decoration: underline;
     }
-        /* ---------- Contact Form ---------- */
+        /* Contact Form */
     form {
       background: rgba(255, 255, 255, 0.05);
       padding: 25px 30px;
@@ -168,7 +167,7 @@
       box-shadow: 0 0 10px rgba(108, 99, 255, 0.5);
     }
 
-    /* ---------- Footer ---------- */
+    /* Footer */
     footer {
       text-align: center;
       margin-top: 50px;
@@ -182,4 +181,5 @@
 
     footer a:hover {
       color: #9c8bff;
+
     }
